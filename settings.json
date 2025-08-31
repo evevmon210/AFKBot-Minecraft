@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "SubscribeToAnger", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "angerry1.aternos.me", 
+    "port": 31061,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 200,
+
+      "messages": [
+        " ",
+        "Sub To ANGER.RY1",
+        " "
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
