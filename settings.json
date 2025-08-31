@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "SubscribeToAnger", 
+    "username": "SubToAnger", 
     "password": "",
     "type": "mojang"
   },
@@ -30,14 +30,14 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 200,
+      "repeat-delay": 60,
 
       "messages": [
-        " ",
-        "Sub To ANGER.RY1",
-        " "
+        "I'm a regular player",
+        "Subscibe To Slobos!",
+        "I Like to Play Minecraft!"
       ]
     },
 
